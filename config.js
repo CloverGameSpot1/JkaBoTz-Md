@@ -31,30 +31,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.sig = 'https://www.instagram.com/Zetwo_botz/'
 global.sgh = 'https://github.com/JakaV1'
 global.sgc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
-global.sdc = 'Wa.me/6285785694474'
+global.sdc = 'Wa.me/6285158121779'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '6281335334848'
-global.povo = '-'
-global.pgopay = '6285785694474'
-global.ppulsa = '6281335334848'
-global.ppulsa2 = '6281335334848'
+global.pdana = '6285158121779'
+global.povo = '6285158121779'
+global.pgopay = '6285158121779'
+global.ppulsa = '6285158121779'
+global.ppulsa2 = '6285228679898'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281335334848'
-global.nomorown = '79911716214'
-global.namebot = 'ZeroTwo-Botz'
-global.nameown = 'Jaka-Kun'
+global.nomorbot = '6285228679898'
+global.nomorown = '6185158121779'
+global.namebot = 'Clover-Botz'
+global.nameown = 'Asep'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['79911716214'],
-  ['79911716214'],
-  ['79911716214'],
-  ['6285785694474', '❦ Jaka', true]
+  ['6185158121779'],
+  ['6185158121779'],
+  ['6185158121779'],
+  ['6185158121779', '❦ Jaka', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,13 +99,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ZeroTwo Botz あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZeroTwo Botz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ZeroTwo Botz'
+global.wm = '                「 Clover Botz あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Clover Botz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Clover Botz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ ZeroTwo Botz Whatsapp | By ${global.nameown}`
-global.author = '                「 ZeroTwo Botz あ⁩ 」'
+global.titlebot = `⫹⫺ Clover Botz Whatsapp | By ${global.nameown}`
+global.author = '                「 Clover Botz あ⁩ 」'
 
 
 /*============== LOGO ==============*/
